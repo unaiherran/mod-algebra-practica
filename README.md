@@ -45,11 +45,9 @@ Con estas funciones implementamos el algoritmo **Grow**.
 5) Si siguen quedando nodos por añadir repetimos 4
 
 Y el **Shrink**
-def shrink(grafo):
-    # empezamos con el grafo completo
-    # buscamos el vertice con mas peso
-    # quitamos ese vertice
-    # hemos desconectado algo?
-    # si es que si volvemos a añadir el vertice quitado
-    # iteramos
- 
+1) Empezamos con el grafo completo
+2) Buscamos el vertice con mas peso
+3) Quitamos ese vertice
+4) Miramos a ver si hemos dejado algun nodo sin conectar o si hemos generado dos islas (es decir que todos los nodos del grafo tienen que seguir conectados entre ellos
+5) Si se da alguno de estos casos volvemos a añadir el vertice quitado
+6) Iteramos con el siguinte vertice (hasta que no nos queden vertices)
