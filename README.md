@@ -37,3 +37,19 @@ def buscaVertices(grafo, nodoInicial, listaDeNodos):    # devuelve una lista con
                                                         # 'listaDeNodos' de un 'grafo'
 ```
 
+Con estas funciones implementamos el algoritmo **Grow**.
+1) Empezamos con un grafo vacio
+2) Añadimos el vertice con menor peso al grafo vacio
+3) Vemos que nodos nos quedan por añadir
+4) Añadimos el nodo que tenga un vertice que una con el arbol y tenga el valor más pequeño
+5) Si siguen quedando nodos por añadir repetimos 4
+
+Y el **Shrink**
+def shrink(grafo):
+    # empezamos con el grafo completo
+    # buscamos el vertice con mas peso
+    # quitamos ese vertice
+    # hemos desconectado algo?
+    # si es que si volvemos a añadir el vertice quitado
+    # iteramos
+ 
