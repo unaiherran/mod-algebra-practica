@@ -27,9 +27,13 @@ def nodosEnGrafo(grafo):    # Devuelve un conjunto con los nodos que tiene el gr
 def pesoMaximo(grafo):      # devuelve el peso maximo en un grafo
 def pesoMinimo(grafo):      # devuelve el peso maximo en un grafo.
 def listaPesos(grafo, mayor=True):  #   Devuelve una lista ordenada de todos los pesos de un grafo
-def nodosQueConectan (grafoOriginal, nodo): # Devuelve un conjunto con los nodos que conectan directamente con un nodo determinado
-def quitarNodo (grafo, nodo):   #Devuelve un grafo basado en el grafo suminsitardo en el que se ha retirado un nodo
+def nodosQueConectan (grafoOriginal, nodo): # Devuelve un conjunto con los nodos que conectan 
+                                            # directamente con un nodo determinado
+def quitarNodo (grafo, nodo):   # Devuelve un grafo basado en el grafo suminsitardo en el que se ha 
+                                # retirado un nodo
 def camino(grafoOriginal, nodoA, nodoB):    #Devuelve True o False segun si hay un camino entre dos nodos
-def buscaVertices(grafo, nodoInicial, listaDeNodos):    # devuelve una lista con todos los vertices que unen 'nodoInicial' con los nodos                                            # suministrados en 'listaDeNodos' de un 'grafo'
+def buscaVertices(grafo, nodoInicial, listaDeNodos):    # devuelve una lista con todos los vertices que unen
+                                                        # 'nodoInicial' con los nodos suministrados en 
+                                                        # 'listaDeNodos' de un 'grafo'
 ```
 
