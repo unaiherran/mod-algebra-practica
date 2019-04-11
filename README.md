@@ -5,7 +5,7 @@ El archivo con la resolución es `ALG00.ipynb` tambien se incluyen el archivo `p
 
 Practicamente todos los ejercicios contienen la explicación en el propio notebook, pero viendo que el ejercicio 6 requiere más comentarios  del que pueden incluirse en el el código para que se mantenga legible, lo explico aquí.
 
-## Ejercicio 6
+### Ejercicio 6
 
 Para definir un grafo se usa la siguiente extructura:
 
