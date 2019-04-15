@@ -3,7 +3,28 @@ Se incluye en el repositorio tanto el notebook sin resolver como el resueltos (p
 
 El archivo con la resolución es `ALG00.ipynb` tambien se incluyen el archivo `pruebas.ipnb`que simplemente tiene el ejercicio 6 con los prints  usados en el debug. Lo guardo por su valor documental
 
-Practicamente todos los ejercicios contienen la explicación en el propio notebook, pero viendo que el ejercicio 6 requiere más comentarios  del que pueden incluirse en el el código para que se mantenga legible, lo explico aquí.
+### Ejercicio 1
+La conjetura de Collatz dice:
+Sea la siguiente operación, aplicable a cualquier número entero positivo:
+
+Si el número es par, se divide entre 2.
+Si el número es impar, se multiplica por 3 y se suma 1.
+
+La conjetura dice que siempre alcanzaremos el 1 (y por tanto el ciclo 4, 2, 1) para cualquier número con el que comencemos. 
+
+Se realiza una funcion en python que devuelve el mecanismo de la conjetura de Collatz
+
+### Ejercicio 2
+
+Se realiza un procedimiento que suma la clave al vector mensaje para encriptar. La funcion es reversible, y se utiliza el mismo metodo tanto para encriptar como para desencriptar.
+
+### Ejercicio 3
+
+
+### Ejercicio 4
+
+### Ejercicio 5
+
 
 ### Ejercicio 6
 
