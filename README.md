@@ -38,7 +38,7 @@ La manera más fácil es usar la funcion de numpy que calcula el rango de una ma
 
 Además, he triangulado la matriz por columnas (por filas ya lo estaba) y he visto que columnas no se quedan con todo 0. La cantidad de filas/columnas que no son todo 0, es el rango de la matriz.
 
-Tambien lo he calculado por determiantes. Si al menos uno de los determinantes de la matriz B' (Matriz original a la que le hemos quitado una fila/columna) no es 0, el rango será el número de columnas/filas.
+Tambien lo he calculado por determinates. Si al menos uno de los determinantes de la matriz B' (Matriz original a la que le hemos quitado una fila/columna) no es 0, el rango será el número de columnas/filas.
 
 
 ### Ejercicio 6
