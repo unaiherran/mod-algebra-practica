@@ -1,4 +1,4 @@
-# Practica Modulo Algebra
+# Práctica Modulo Algebra
 
 Se incluye en el repositorio tanto el notebook sin resolver como el resueltos (para consultar en el futuro). Tambien se incluye el directorio imagenes.
 
