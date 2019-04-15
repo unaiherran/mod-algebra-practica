@@ -1,4 +1,5 @@
-# mod-algebra-practica
+# Practica Modulo Algebra
+
 Se incluye en el repositorio tanto el notebook sin resolver como el resueltos (para consultar en el futuro). Tambien se incluye el directorio imagenes.
 
 El archivo con la resolución es `ALG00.ipynb` tambien se incluyen el archivo `pruebas.ipnb`que simplemente tiene el ejercicio 6 con los prints  usados en el debug. Lo guardo por su valor documental
