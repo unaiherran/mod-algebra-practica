@@ -19,11 +19,19 @@ Se realiza una funcion en python que devuelve el mecanismo de la conjetura de Co
 Se realiza un procedimiento que suma la clave al vector mensaje para encriptar. La funcion es reversible, y se utiliza el mismo metodo tanto para encriptar como para desencriptar.
 
 ### Ejercicio 3
-
+Realizar este calculo de forma tradicional requiere multiplicar cada uno de los costes por la cantidad necesaria. Esto se puede realizar de una forma más directa mediante un producto escalar. Se implementa un procedimiento para realizar el producto escalar.
 
 ### Ejercicio 4
+Para calcular cómo cobrariamos 13 € siendo cualquier resultado, tenemos que tener en cuenta que el pago que vamos a recibir es n veces lo apostado en el caballo ganador y que perderemos el dinero que hemos apostado a los otros caballos, lo que hace que planeemos este sistema de ecuaciones:
+
+4x -  y  -  z = 13
+-x + 3y  -  z = 13
+-x -  y  + 2z = 13
+
+Realizamos las verificaciones del sistema (si es compatible determinado, compatible indeterminado o incompatible) y resolvemos.
 
 ### Ejercicio 5
+
 
 
 ### Ejercicio 6
